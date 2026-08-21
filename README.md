@@ -15,7 +15,7 @@
 𐃘  I code with faith, trust, and a little bit of pixie dust ˖Ი𐑼ֶ
 
 <strong>𓂃 𓈒𓏸‪‪ 𓇼 What Andi is Still Learning 𓇼 𓂃 𓈒𓏸</strong>
-𐃘 Graphic Design 𓊝 Web Design 𓊝 System Programming Languages 𓊝 DevOps
+𐃘 Graphic Design 𓊝 Web Design 𓊝 System Programming Languages
 
 <strong>𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸</strong>
 𐃘 Anime 𓊝 Studio Ghibli 𓊝 Indie Games 𓊝 Art 𓊝 Music 
