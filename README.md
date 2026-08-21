@@ -6,8 +6,7 @@
 <div align="left">
 <pre>
 ﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏
- 
-                𓏲 ๋࣭ ࣪ ˖ Welcome aboard! I'm Andi ૮ • ﻌ - ა
+𓏲 ๋࣭ ࣪ ˖ Welcome aboard! I'm Andi ૮ • ﻌ - ა
  
 𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸
 𐃘  I’m Andi, a PH-based tech rookie
