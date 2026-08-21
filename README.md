@@ -9,15 +9,15 @@
   
   <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager .ᐟ.ᐟ</strong></h1>
 
-  <strong>𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸</strong>
+  <h2><strong>𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸</strong></h2>
 𐃘  I’m Andi, a PH-based tech rookie
 𐃘  BSCS @ BatStateU ಄ Sophomore Student Coder ಄ Noob Developer
 𐃘  I code with faith, trust, and a little bit of pixie dust ˖Ი𐑼ֶ
 
-<strong>𓂃 𓈒𓏸‪‪ 𓇼 What Andi is Still Learning 𓇼 𓂃 𓈒𓏸</strong>
+<h2><strong>𓂃 𓈒𓏸‪‪ 𓇼 What Andi is Still Learning 𓇼 𓂃 𓈒𓏸</strong></h2>
 𐃘 Graphic Design 𓊝 Web Design 𓊝 System Programming Languages
 
-<strong>𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸</strong>
+<h2><strong>𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸</strong></h2>
 𐃘 Anime 𓊝 Studio Ghibli 𓊝 Indie Games 𓊝 Art 𓊝 Music 
   ಄ Literature ಄ Mixed Media ಄ Scrapbooking ಄ C.A.
 ﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏
