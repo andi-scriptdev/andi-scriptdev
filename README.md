@@ -4,20 +4,20 @@
 <br><br>
 
 <pre>
-𓏲 ๋࣭ ࣪ ˖ **Welcome aboard! I'm Andi** ૮ • ﻌ - ა
+𓏲 ๋࣭ ࣪ ˖ Welcome aboard! I'm Andi ૮ • ﻌ - ა
 
-**𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸**
+𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸
 𐃘  I’m Andi, a PH-based tech rookie
 𐃘  BSCS @ BatStateU ಄ Sophomore Student Coder ಄ Noob Developer
 𐃘  I code with faith, trust, and a little bit of pixie dust ˖Ი𐑼ֶ
 
-**𓂃 𓈒𓏸‪‪ 𓇼 What Andi is Still Learning 𓇼 𓂃 𓈒𓏸**
+𓂃 𓈒𓏸‪‪ 𓇼 What Andi is Still Learning 𓇼 𓂃 𓈒𓏸
 Graphic Design 𓊝 Web Design 𓊝 System Programming Languages 𓊝 DevOps
 
-**𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸**
+𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸
 Anime 𓊝 Studio Ghibli 𓊝 Indie Games 𓊝 Art 𓊝 Music 𓊝 Literature 𓊝 Mixed Media 𓊝 Scrapbooking 𓊝 C.A.
 </pre>
 
 <br>
-<img src="assets\finn dance.gif" height="40" />
+<img src="assets\finn dance.gif" height="100" />
 <br><br>
