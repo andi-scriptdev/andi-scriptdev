@@ -25,5 +25,5 @@
 </div>
 
 <br>
-<img src="assets\finn dance.gif" height="100" />
+<img src="assets\finn dance.gif" height="200" />
 <br><br>
