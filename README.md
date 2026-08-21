@@ -19,7 +19,6 @@
 <strong>𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸</strong>
 𐃘 Anime 𓊝 Studio Ghibli 𓊝 Indie Games 𓊝 Art 𓊝 Music 
   𓊝 Literature 𓊝 Mixed Media 𓊝 Scrapbooking 𓊝 C.A.
-
 ﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏
 </pre>
 </div>
