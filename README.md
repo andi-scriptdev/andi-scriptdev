@@ -5,9 +5,9 @@
 
 <div align="left">
 <pre>
-﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏
+﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏
   
-  <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager! 𐔌՞..՞𐦯</strong></h1>
+  <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager .ᐟ.ᐟ</strong></h1>
 
   <strong>𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸</strong>
 𐃘  I’m Andi, a PH-based tech rookie
@@ -20,7 +20,7 @@
 <strong>𓂃 𓈒𓏸‪‪ 𓇼 Andi’s Anti-Burnout Essentials 𓇼 𓂃 𓈒𓏸</strong>
 𐃘 Anime 𓊝 Studio Ghibli 𓊝 Indie Games 𓊝 Art 𓊝 Music 
   ಄ Literature ಄ Mixed Media ಄ Scrapbooking ಄ C.A.
-﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏
+﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏
 </pre>
 </div>
 
