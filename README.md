@@ -1,5 +1,5 @@
 <div align="center">
-<img src="header.gif" alt="Divider" width="1000" height="12">
+<img src="header.gif" alt="Divider" width="1000" height="30">
 
 <div align="center">
 <img src="assets\sea.gif" width="40%" height="40%" align="right" />
