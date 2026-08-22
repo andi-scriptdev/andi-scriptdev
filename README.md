@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/gojo 1.gif" alt="Header" width="200">
+<img src="header.gif" alt="Divider" width="1000" height="12">
 
 <div align="center">
 <img src="assets\sea.gif" width="40%" height="40%" align="right" />
