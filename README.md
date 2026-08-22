@@ -12,7 +12,7 @@
   <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager ᯓ★</strong></h1>
 
   <strong>𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸</strong>
-𐃘  I’m Andi, a PH-based tech rookie
+𐃘  I’m Andi, a PH-based tech rookie-girlie!
 𐃘  BSCS @ BatStateU ಄ Sophomore Student Coder ಄ Noob Developer
 𐃘  I code with faith, trust, and a little bit of pixie dust ˖Ი𐑼ֶ
 
