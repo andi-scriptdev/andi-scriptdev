@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://imgur.com/ip5p8IN.png" alt="Header" width="1000">
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
+<img src="assets/gojo 1.gif" alt="Header" width="1000">
 
 <div align="center">
 <img src="assets\sea.gif" width="40%" height="40%" align="right" />
