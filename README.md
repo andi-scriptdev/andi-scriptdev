@@ -6,7 +6,7 @@
 <div align="left">
 <pre>
 ﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏﹏𓊝﹏﹏﹏
-  <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager .ᐟ.ᐟ</strong></h1>
+  <h1><strong>𓏲 ๋࣭ ࣪˖ Welcome aboard, voyager ᯓ★</strong></h1>
 
   <strong>𓂃 𓈒𓏸‪‪ 𓇼 About Andi 𓇼 𓂃 𓈒𓏸</strong>
 𐃘  I’m Andi, a PH-based tech rookie
