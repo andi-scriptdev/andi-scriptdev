@@ -2,7 +2,7 @@
 <img src="header.gif" alt="Divider" width="1000" height="500">
 
 <div align="center">
-<img src="underwatta.gif" width="40%" height="40%" align="right" />
+<img src="blob.gif" width="40%" height="40%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=33&duration=4965&pause=581&color=FFFFFF&background=D5EAFF&center=true&vCenter=true&width=435&lines=%CB%9A.%E2%8B%86%F0%93%82%83%F0%93%8A%9D++Ahoy!+I'm+Andi%F0%93%8A%9D%F0%93%82%83%CB%9A.%E2%8B%86" alt="Typing SVG" /></a>
 <br><br>
 
